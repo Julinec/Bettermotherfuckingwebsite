@@ -4,7 +4,7 @@ Voici le projet que nous avons réalisé. Nous avons ajouté du JavaScript au fi
 
 Repos : https://github.com/Julinec/Bettermotherfuckingwebsite
 
-Fichier html : https://github.com/Julinec/Bettermotherfuckingwebsite/blob/master/bettermotherfuckingproject.html
+Fichier html : https://github.com/Julinec/Bettermotherfuckingwebsite/blob/master/Bettermotherfuckingproject(2)
 
 Fichier css : https://github.com/Julinec/Bettermotherfuckingwebsite/blob/master/bettermotherfuckingproject.css
 

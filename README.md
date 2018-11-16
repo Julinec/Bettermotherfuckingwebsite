@@ -1,9 +1,10 @@
 README de *Bettermotherfuckingproject*
 
-Pour ce deuxième projet, Louis-Thomas et moi avons travaillé tous les deux pour le faire.
-Voila le lien de notre premier repo Github sur *Motherfuckingwebsite* :https://github.com/Julinec/Motherfuckingwebsite
-Ensuite nous avons fait le repo de *Bettermotherfuckingwebsite* : https://github.com/Julinec/Bettermotherfuckingwebsite
-Pour finir, voici le lien de notre version de production du site *Bettermotherfuckingwebsite* : http://e-developpeur.fr/bettermotherfuckingproject/
+Voici le projet que nous avons réalisé. Nous avons ajouté du JavaScript au fichier html du projet précédent afin d’afficher la popup.
+Repos : https://github.com/Julinec/Bettermotherfuckingwebsite
+Fichier html : https://github.com/Julinec/Bettermotherfuckingwebsite/blob/master/bettermotherfuckingproject.html
+Fichier css : https://github.com/Julinec/Bettermotherfuckingwebsite/blob/master/bettermotherfuckingproject.css
+Lien en production du site : http://e-developpeur.fr/bettermotherfuckingproject/
 
 Merci de votre visualisation de nos projets.
-Louis-Thomas et Juline, Groupe 8
+Juline et Louis-Thomas, Groupe 8
